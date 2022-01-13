@@ -1,0 +1,19 @@
+{
+  "name": "pj-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "buld": "echo \"Build ok\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lettellwm/dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lettellwm/dev/issues"
+  },
+  "homepage": "https://github.com/lettellwm/dev#readme"
+}
